@@ -1,0 +1,5 @@
+@echo off
+color2
+:start
+echo %randomn% %randomn% %randomn% %randomn% %randomn% %randomn% %randomn% %randomn% %randomn%
+goto start
